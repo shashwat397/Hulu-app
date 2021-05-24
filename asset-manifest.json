@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hulu-app/static/css/main.5654c76e.chunk.css",
+    "main.js": "/Hulu-app/static/js/main.eb964521.chunk.js",
+    "main.js.map": "/Hulu-app/static/js/main.eb964521.chunk.js.map",
+    "runtime-main.js": "/Hulu-app/static/js/runtime-main.44a6bd5f.js",
+    "runtime-main.js.map": "/Hulu-app/static/js/runtime-main.44a6bd5f.js.map",
+    "static/js/2.2482274a.chunk.js": "/Hulu-app/static/js/2.2482274a.chunk.js",
+    "static/js/2.2482274a.chunk.js.map": "/Hulu-app/static/js/2.2482274a.chunk.js.map",
+    "index.html": "/Hulu-app/index.html",
+    "precache-manifest.aa68dbde411028d7d7b12ea99f38d303.js": "/Hulu-app/precache-manifest.aa68dbde411028d7d7b12ea99f38d303.js",
+    "service-worker.js": "/Hulu-app/service-worker.js",
+    "static/css/main.5654c76e.chunk.css.map": "/Hulu-app/static/css/main.5654c76e.chunk.css.map",
+    "static/js/2.2482274a.chunk.js.LICENSE.txt": "/Hulu-app/static/js/2.2482274a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44a6bd5f.js",
+    "static/js/2.2482274a.chunk.js",
+    "static/css/main.5654c76e.chunk.css",
+    "static/js/main.eb964521.chunk.js"
+  ]
+}
